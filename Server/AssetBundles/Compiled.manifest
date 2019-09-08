@@ -1,0 +1,187 @@
+ManifestFileVersion: 0
+CRC: 2359951379
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: letsrollscreen
+      Dependencies: {}
+    Info_1:
+      Name: citysnow3
+      Dependencies: {}
+    Info_2:
+      Name: chevrolet_camaro_2011
+      Dependencies: {}
+    Info_3:
+      Name: islandsnow3
+      Dependencies: {}
+    Info_4:
+      Name: island2
+      Dependencies: {}
+    Info_5:
+      Name: island3
+      Dependencies: {}
+    Info_6:
+      Name: islandoffroad1
+      Dependencies: {}
+    Info_7:
+      Name: racingsnow2
+      Dependencies: {}
+    Info_8:
+      Name: citysnow1
+      Dependencies: {}
+    Info_9:
+      Name: islandoffroad3
+      Dependencies: {}
+    Info_10:
+      Name: mazda_miata_2011
+      Dependencies: {}
+    Info_11:
+      Name: windingroad3
+      Dependencies: {}
+    Info_12:
+      Name: wrangler_rubicon_2013
+      Dependencies: {}
+    Info_13:
+      Name: leaderboardscreen
+      Dependencies: {}
+    Info_14:
+      Name: islandsnow2
+      Dependencies: {}
+    Info_15:
+      Name: highwaysnow2
+      Dependencies: {}
+    Info_16:
+      Name: gmc_sierra_2007
+      Dependencies: {}
+    Info_17:
+      Name: city1
+      Dependencies: {}
+    Info_18:
+      Name: startplayscreen
+      Dependencies: {}
+    Info_19:
+      Name: island1
+      Dependencies: {}
+    Info_20:
+      Name: racing3
+      Dependencies: {}
+    Info_21:
+      Name: congratulationsscreen
+      Dependencies: {}
+    Info_22:
+      Name: highwaysnow1
+      Dependencies: {}
+    Info_23:
+      Name: highwaysnow3
+      Dependencies: {}
+    Info_24:
+      Name: nissan_altima_2008
+      Dependencies: {}
+    Info_25:
+      Name: honda_accord_sport_2013
+      Dependencies: {}
+    Info_26:
+      Name: windingsnow3
+      Dependencies: {}
+    Info_27:
+      Name: chevrolet_express_3500_2012
+      Dependencies: {}
+    Info_28:
+      Name: ford_f250
+      Dependencies: {}
+    Info_29:
+      Name: highway1
+      Dependencies: {}
+    Info_30:
+      Name: bmw_x5_3.0i_2005
+      Dependencies: {}
+    Info_31:
+      Name: dodge_ram_3500
+      Dependencies: {}
+    Info_32:
+      Name: lexus_es350_2011
+      Dependencies: {}
+    Info_33:
+      Name: cadillac_escalade_2013
+      Dependencies: {}
+    Info_34:
+      Name: windingsnow2
+      Dependencies: {}
+    Info_35:
+      Name: gamemodeselectionscreen
+      Dependencies: {}
+    Info_36:
+      Name: islandoffroad2
+      Dependencies: {}
+    Info_37:
+      Name: islandsnow1
+      Dependencies: {}
+    Info_38:
+      Name: toyota_camry__le_2009
+      Dependencies: {}
+    Info_39:
+      Name: mercedes_amg_2012
+      Dependencies: {}
+    Info_40:
+      Name: windingroad1
+      Dependencies: {}
+    Info_41:
+      Name: city2
+      Dependencies: {}
+    Info_42:
+      Name: racing2
+      Dependencies: {}
+    Info_43:
+      Name: highway3
+      Dependencies: {}
+    Info_44:
+      Name: corvette
+      Dependencies: {}
+    Info_45:
+      Name: hyundai_elantra_2013
+      Dependencies: {}
+    Info_46:
+      Name: instructionsscreen
+      Dependencies: {}
+    Info_47:
+      Name: circuitcompletedscreen
+      Dependencies: {}
+    Info_48:
+      Name: ford_mustang_gt_2010
+      Dependencies: {}
+    Info_49:
+      Name: racingsnow1
+      Dependencies: {}
+    Info_50:
+      Name: selectsequencescreen
+      Dependencies: {}
+    Info_51:
+      Name: bmw_x5_4.4i_2005
+      Dependencies: {}
+    Info_52:
+      Name: congratulationsfinalscreen
+      Dependencies: {}
+    Info_53:
+      Name: welcomebackscreen
+      Dependencies: {}
+    Info_54:
+      Name: racingsnow3
+      Dependencies: {}
+    Info_55:
+      Name: windingsnow1
+      Dependencies: {}
+    Info_56:
+      Name: racing1
+      Dependencies: {}
+    Info_57:
+      Name: citysnow2
+      Dependencies: {}
+    Info_58:
+      Name: city3
+      Dependencies: {}
+    Info_59:
+      Name: windingroad2
+      Dependencies: {}
+    Info_60:
+      Name: highway2
+      Dependencies: {}

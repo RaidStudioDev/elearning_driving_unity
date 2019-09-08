@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3344203077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95ae293b6e0069523221c22923999671
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0928043daf07ae67febfc8a9579b622c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ec1e45165d1f2544bff59f5a80db8ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fffafd711dc1dbc478a49705cfe1ce3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ce3a3a1349a5774b94761844e652a65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62479c3465024b48b42983b1b2eeaaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ea65b38d485c374caa584a03f1de571, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 459cec5b068041e44a60a6e3b6abb0eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20fa55eb64c5cea4aa3c71ae19c434bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ef7fa1ea94cf8140b76d8fc9e9fa8b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1848074eee38bc247a4f6de3aa81ca60, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Resources/NISSAN_ALTIMA_2008.prefab
+- Assets/External/AssetBundles/Sources/NISSAN_ALTIMA_2008.prefab
+Dependencies: []

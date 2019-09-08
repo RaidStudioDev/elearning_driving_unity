@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 3189796276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dbe89633448c92ca8115ded5fab9683
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b38c12b722e928ed2c6c880897564e5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60ba1e40b6b6a70419963592d71bba3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77f5c880623e56e459f21e470e72afe3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c715d241983ca1d4bb58a0f14e8b3323, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2bc0bb4c3ec2554291cb089dda039d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9cd8bb6c049b424fb603677c4eba8b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ca61cbab33d7534cba246b04ab88813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8384eaee89f15c949a7d38348d32a697, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Sources/LeaderboardScreen.prefab
+- Assets/External/AssetBundles/Resources/LeaderboardScreen.prefab
+Dependencies: []

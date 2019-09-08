@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 4148658877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad7ecc6b1a552cbad6ab190eb0ed59fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ecd13f89c903cab5d87a6a0dc8e106a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c2d84226fbbaf94e9c1451f1c39b06a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ab98b66288df7b4fa182075f2f12bd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71398ce7fbc3a5b4fa50b50bd54317a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 982d6d7a4b48a4c49988151fa93de3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df282b8aff349f64c9e304b8fc31c6f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a705d5b89284604d9cbf5e18d3e30eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3dfc54c1371fdf4fa6121a238054d00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1caf40fc8bebb6b43b2550c05ca791d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50c7891f6f163e34cb0a77f0c533ecc4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_pause3.png
+- Assets/UI/Screens/8_GameScreen/Sprites/control_buttonsheet.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_pause1.png
+- Assets/UI/Screens/8_GameScreen/Sprites/game_header.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_on_2.png
+- Assets/UI/Screens/8_GameScreen/Sprites/object_feed_neg.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_pause0.png
+- Assets/UI/Screens/8_GameScreen/Sprites/time_top_panel.png
+- Assets/UI/Screens/8_GameScreen/Sprites/count/c_1.png
+- Assets/UI/Screens/8_GameScreen/Resources/GameScreenCountPanel.prefab
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_on_3.png
+- Assets/UI/Screens/8_GameScreen/Sprites/count/c_3.png
+- Assets/UI/Screens/8_GameScreen/Sprites/count/c_go.png
+- Assets/UI/Screens/8_GameScreen/Sprites/control_brake.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_on_1.png
+- Assets/UI/Screens/8_GameScreen/Sprites/object_feed_pos.png
+- Assets/UI/Screens/8_GameScreen/Sprites/brake_buttonsheet.png
+- Assets/UI/Screens/8_GameScreen/Sprites/corner_control.png
+- Assets/UI/Screens/8_GameScreen/Sprites/supertire1_logo_small.png
+- Assets/UI/Screens/8_GameScreen/Sprites/count/c_2.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_pause2.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_off_3.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_off_2.png
+- Assets/UI/Screens/8_GameScreen/Sprites/control_corner_bg.png
+- Assets/UI/Screens/8_GameScreen/Sprites/control_gas.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_off_0.png
+- Assets/UI/Screens/8_GameScreen/Sprites/control_direction.png
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_on_0.png
+- Assets/UI/Screens/8_GameScreen/Sprites/object_feed_complete.png
+- Assets/UI/Screens/8_GameScreen/Sprites/game_top_header_background.png
+- Assets/UI/Screens/8_GameScreen/Resources/GameScreen.prefab
+- Assets/UI/Screens/8_GameScreen/Sprites/btn_audio_off_1.png
+Dependencies: []

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b75622568192b4daa9c68be3d44cc906
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cadillac
+    100002: //RootNode
+    100004: FL_tire
+    100006: FR_tire
+    100008: RearLight
+    100010: RL_tire
+    100012: RR_tire
+    400000: Cadillac
+    400002: //RootNode
+    400004: FL_tire
+    400006: FR_tire
+    400008: RearLight
+    400010: RL_tire
+    400012: RR_tire
+    2100000: 07 - Default
+    2100002: 07 - Default.1
+    2100004: 07 - Default.2
+    2100006: 07 - Default.3
+    2100008: body
+    2100010: Lamp
+    2100012: cadillac_tire
+    2100014: cadillac_tire.1
+    2100016: cadillac_tire.2
+    2100018: cadillac_tire.3
+    2100020: cadillac_body
+    2100022: cadillac_lamp
+    2100024: tire
+    2300000: Cadillac
+    2300002: FL_tire
+    2300004: FR_tire
+    2300006: RearLight
+    2300008: RL_tire
+    2300010: RR_tire
+    3300000: Cadillac
+    3300002: FL_tire
+    3300004: FR_tire
+    3300006: RearLight
+    3300008: RL_tire
+    3300010: RR_tire
+    4300000: RL_tire
+    4300002: FL_tire
+    4300004: FR_tire
+    4300006: RR_tire
+    4300008: Cadillac
+    4300010: RearLight
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: 9d7072ea0e2f04b4daa8d9e95b4610a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_body
+    second: {fileID: 2100000, guid: 5990f6f5c06be8c4388850044be71729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_lamp
+    second: {fileID: 2100000, guid: d42f3d515642ecf4fbcb30874a45e913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_tire
+    second: {fileID: 2100000, guid: dcaa6601d7e25444a9560f3cdb167170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_tire.1
+    second: {fileID: 2100000, guid: acc9c270b03cd7f49809e8b573074725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_tire.2
+    second: {fileID: 2100000, guid: 190e3f782900dff41b327b30f0a9ae2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadillac_tire.3
+    second: {fileID: 2100000, guid: a7ce9393cee5e2942bf02b2c1288fbc6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cadillac_tex
+    second: {fileID: 2800000, guid: 804dd9701e1c93f49a41259baeea137e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dodge_ram_tire_tex
+    second: {fileID: 2800000, guid: 13c7b275cd514bf4e8ef2c24a5a3986a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

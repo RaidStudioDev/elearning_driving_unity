@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 45035186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8f9f91ff8a313f469f14f2dc3e1b083
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2caf7658b54de044b0a803f20228496
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53d49417e1ab6a24ca33e6168cd95d53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 982d6d7a4b48a4c49988151fa93de3bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3dfc54c1371fdf4fa6121a238054d00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Sources/TireSelectScreen.prefab
+Dependencies: []

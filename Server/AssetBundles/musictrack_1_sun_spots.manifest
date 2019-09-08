@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2648591349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9098701846a3987234778d0ac20ad04e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8de51064219e4f947fb7fea9d09a4e34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Resources/MusicTrack_1_Sun_Spots.prefab
+- Assets/External/AssetBundles/Sources/MusicTrack_1_Sun_Spots.prefab
+Dependencies: []

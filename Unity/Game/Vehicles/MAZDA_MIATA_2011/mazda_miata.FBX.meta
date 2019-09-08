@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: f2fbffb899afc4e66b50e1b14d9e0084
+timeCreated: 1519936022
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FL_tire
+    100002: FR_tire
+    100004: //RootNode
+    100006: Plane
+    100008: rearLight
+    100010: RL_tire
+    100012: RR_tire
+    400000: FL_tire
+    400002: FR_tire
+    400004: //RootNode
+    400006: Plane
+    400008: rearLight
+    400010: RL_tire
+    400012: RR_tire
+    2100000: body
+    2100002: 07 - Default
+    2100004: rearLight
+    2100006: mazdabody
+    2100008: mazda_tire
+    2100010: mazda_rearLight
+    2300000: FL_tire
+    2300002: FR_tire
+    2300004: Plane
+    2300006: rearLight
+    2300008: RL_tire
+    2300010: RR_tire
+    3300000: FL_tire
+    3300002: FR_tire
+    3300004: Plane
+    3300006: rearLight
+    3300008: RL_tire
+    3300010: RR_tire
+    4300000: Plane
+    4300002: FR_tire
+    4300004: RR_tire
+    4300006: RL_tire
+    4300008: FL_tire
+    4300010: rearLight
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_rearLight
+    second: {fileID: 2100000, guid: 457e323eecd204a96bc46eac1296d894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_tire
+    second: {fileID: 2100000, guid: 18de4518a1fb64bdf965f6fedacbf615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazdabody
+    second: {fileID: 2100000, guid: bd0e11deb5a3b47319f3a0901dcc0b65, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mazda_Base_Color
+    second: {fileID: 2800000, guid: 5aaf807135d7c423fb0eb4a6aa2292a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mercy_tire_TEX
+    second: {fileID: 2800000, guid: 89b2f1802c98c43f0aa7e305f7933391, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

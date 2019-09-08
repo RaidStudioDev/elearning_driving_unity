@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 0
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c710963543cdb9191f08262bcbf7f14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/External/AssetBundles/Resources/GMC_SIERRA_2007.prefab
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3258141886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0a5e18a03061a8ea1f1e54d907d9bae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8de51064219e4f947fb7fea9d09a4e34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Resources/MusicTrack_2_Start_Your_Engines.prefab
+- Assets/External/AssetBundles/Sources/MusicTrack_2_Start_Your_Engines.prefab
+Dependencies: []

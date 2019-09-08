@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2234597066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b485786df29ed5b3159d79996ea5f89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81b484c8d991a308061c2a9a46c29bd8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/External/AssetBundles/Sources/Island2.prefab
+- Assets/External/AssetBundles/Resources/Island2.prefab
+Dependencies: []

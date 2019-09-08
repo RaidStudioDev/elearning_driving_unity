@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be12b1091ee3e3744bff89e2a32a3575
+timeCreated: 1503372065
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura Bk
+  fontNames:
+  - Futura Bk
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
